@@ -2,3 +2,4 @@ streamlit
 Pillow
 streamlit-mic-recorder
 requests
+streamlit-autorefresh
